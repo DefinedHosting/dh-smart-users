@@ -4,7 +4,7 @@ Plugin Name: Defined Hosting | Smart Users
 Plugin URI: http://www.definedhosting.co.uk/plugins
 Description: User management for Smart Numbers
 Author: R. Cush
-Version: 1.0.1
+Version: 1.0.3
 Author URI: https://www.definedhosting.co.uk
 GitHub Plugin URI: DefinedHosting/dh-smart-users
 GitHub Plugin URI: https://github.com/DefinedHosting/dh-smart-users
